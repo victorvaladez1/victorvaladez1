@@ -12,32 +12,30 @@ I'm an undergraduate student at the **University of Houston** pursuing a **Bache
 
 ### 🛠️ Skills
 
-- **Programming Languages**: C++, Java, Python, JavaScript, TypeScript, HTML/CSS, SQL, R
-- **Frameworks and Libraries**: React, Express, Node.js, Mongoose, Unity, OpenCV, TensorFlow
-- **Tools and Platforms**: Git/GitHub, Visual Studio Code, Docker, MongoDB, MySQL
-- **Areas of Interest**: Full-stack web development, Game development, Robotics, Computer Vision, Algorithms, Data Structures
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### 🔧 Personal Interests
 
 - 🖥️ **Building Gaming PCs**: I enjoy designing and assembling custom gaming PCs, optimizing for performance, and keeping up with the latest in hardware technology.
-  - **Current Build Specs**:
-    - **CPU**: AMD Ryzen 9 7950X
-    - **GPU**: Gigabyte RTX 4080 16GB Gaming OC
-    - **RAM**: 64GB G.Skill Flare X5 6000MHz DDR5
-    - **Storage**: 2 x Samsung 990 Pro 2TB NVMe SSDs
-    - **Motherboard**: ASUS TUF Gaming X670E-PLUS WIFI ATX
-    - **Cooling**: EK Basic AIO 360mm
-    - **Power Supply**: Corsair HX1500i 80+ Platinum
-    - **Case**: Lian Li Lancool 206
 - ⌨️ **Custom Keyboards**: I'm a fan of mechanical keyboards and love customizing them for the perfect feel and aesthetic, from switches and keycaps to custom cases.
 - 🎨 **Creative Skills**:
   - **Photo Editing**: Learning the ropes of photo editing using **Photoshop**.
   - **Video Editing**: Exploring video editing techniques with **DaVinci Resolve**.
   - **Photography and Videography**: Capturing moments and learning new skills with my **Canon EOS R50** camera.
+- 🛠️ **CAD Modeling & 3D Design**:
+  - **Fusion 360**: Proficient in creating detailed 3D models and simulations.
+  - **Autodesk Inventor**: Experienced in mechanical design and engineering.
+  - **Autodesk Revit**: Skilled in architectural design and building modeling.
+- 🖨️ **3D Printing**: Enthusiastic about 3D printing and exploring its applications in prototyping and custom design.
 
 ### 🔥 Projects
-
-Here are some projects that showcase what I've been working on:
 
 - \*\*[Unity 2D Top-down Hack'n'Slash Roguelike]
 
@@ -55,10 +53,11 @@ Here are some projects that showcase what I've been working on:
 
 ### 💬 Let's Connect!
 
-- 🌐 [Personal Website](https://yourwebsite.com) (if you have one)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- 📫 **Email**: your.email@example.com
+- 💼 [LinkedIn] https://www.linkedin.com/in/victor-valadez-963512282/
+- 📫 **Email**: mvictorvaladez@gmail.com
 
 ### ⚡ Fun Fact
 
 I thrive on solving complex problems, whether it's coding a new feature, fixing a tricky bug, or strategizing for a robotics competition. When I'm not coding, you'll find me exploring new tech, gaming, or brainstorming with friends!
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
