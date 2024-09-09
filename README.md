@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Victor!
-![212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df](https://github.com/user-attachments/assets/07033a25-cd64-42e1-b3ec-3f60e3fba1ae)
 
 I'm an undergraduate student at the **University of Houston** pursuing a **Bachelor's in Computer Science** with a **Minor in Mathematics**. I'm passionate about **software engineering** and **robotics**, and I love building innovative solutions that combine coding, problem-solving, and creativity.
+
+![212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df](https://github.com/user-attachments/assets/07033a25-cd64-42e1-b3ec-3f60e3fba1ae)
 
 ## 🚀 About Me
 
