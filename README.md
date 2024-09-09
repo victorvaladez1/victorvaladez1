@@ -57,25 +57,24 @@ Here’s a glimpse into my current setup:
 
 Check out some of my recent work:
 
-- **[Unity 2D Top-down Hack'n'Slash Roguelike](https://github.com/yourusername/yourproject)**
+- \*\*[Unity 2D Top-down Hack'n'Slash Roguelike]
 
   - Developed a fast-paced 2D game with combo attacks, an energy system, and challenging bosses.
   - _Technologies_: Unity, C#, GitHub
 
-- **[MERN Stack To-Do App](https://github.com/yourusername/yourproject)**
+- \*\*[MERN Stack To-Do App]
 
   - A full-stack application for managing tasks using MongoDB, Express, React, and Node.js.
   - _Technologies_: MongoDB, Express, React, Node.js, TypeScript
 
-- **[Robotics Control System for FIRST FTC](https://github.com/yourusername/yourproject)**
+- \*\*[Robotics Control System for FIRST FTC]
   - Created Java-based control systems for robotics competitions.
   - _Technologies_: Java, OpenCV, Git
 
 ## 💬 Let's Connect!
 
-- 🌐 [Personal Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- 📫 **Email**: your.email@example.com
+- 💼 [LinkedIn] https://www.linkedin.com/in/victor-valadez-963512282/
+- 📫 **Email**: mvictorvaladez@gmail.com
 
 ## ⚡ Fun Fact
 
