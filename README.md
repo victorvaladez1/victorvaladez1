@@ -1,62 +1,83 @@
-## 👋 Hi there, I'm Victor!
+# 👋 Hi there, I'm Victor!
 
-I'm an undergraduate student at the **University of Houston** pursuing a **Bachelor's in Computer Science** with a **Minor in Mathematics**. I'm passionate about **software engineering** and **robotics**, and I enjoy building innovative solutions that combine my skills in coding, problem-solving, and creativity.
+I'm an undergraduate student at the **University of Houston** pursuing a **Bachelor's in Computer Science** with a **Minor in Mathematics**. I'm passionate about **software engineering** and **robotics**, and I love building innovative solutions that combine coding, problem-solving, and creativity.
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🎓 **Student** at the University of Houston, expected to graduate in **May 2026**.
-- 💻 **Software Engineering Enthusiast**: I love working on projects that involve web development, game development, and systems programming.
-- 🤖 **Robotics**: I have experience in programming autonomous and teleoperated code for robotics competitions like **FIRST FTC**, where I worked on Java-based control systems.
-- 🧠 **Learning**: I'm currently exploring **computer vision** and **TensorFlow** with **OpenCV** to build intelligent robotic systems that can perceive and interact with their environment.
-- 🌱 **Currently Learning**: Deepening my knowledge of the **MERN stack**, **Unity** for game development, and AI techniques for robotics.
+- 💻 **Software Engineering Enthusiast**: I enjoy working on projects related to web development, game development, and systems programming.
+- 🤖 **Robotics**: Experience in programming autonomous and teleoperated code for robotics competitions like **FIRST FTC**.
+- 🧠 **Currently Learning**: **Computer Vision** and **TensorFlow** with **OpenCV** for intelligent robotic systems.
 
-### 🛠️ Skills
+## 🛠️ Skills
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+Here are some of the programming languages and technologies I'm proficient in:
 
-### 🔧 Personal Interests
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R"/>
+</p>
 
-- 🖥️ **Building Gaming PCs**: I enjoy designing and assembling custom gaming PCs, optimizing for performance, and keeping up with the latest in hardware technology.
-- ⌨️ **Custom Keyboards**: I'm a fan of mechanical keyboards and love customizing them for the perfect feel and aesthetic, from switches and keycaps to custom cases.
+## 🔧 Personal Interests
+
+- 🖥️ **Building Gaming PCs**: Designing and assembling custom gaming rigs for optimal performance.
+- ⌨️ **Custom Keyboards**: Crafting mechanical keyboards to suit my typing style and aesthetic preferences.
 - 🎨 **Creative Skills**:
-  - **Photo Editing**: Learning the ropes of photo editing using **Photoshop**.
-  - **Video Editing**: Exploring video editing techniques with **DaVinci Resolve**.
-  - **Photography and Videography**: Capturing moments and learning new skills with my **Canon EOS R50** camera.
+  - **Photo Editing**: Learning **Photoshop**.
+  - **Video Editing**: Exploring **DaVinci Resolve**.
+  - **Photography & Videography**: Capturing moments with my **Canon EOS R50**.
 - 🛠️ **CAD Modeling & 3D Design**:
-  - **Fusion 360**: Proficient in creating detailed 3D models and simulations.
-  - **Autodesk Inventor**: Experienced in mechanical design and engineering.
-  - **Autodesk Revit**: Skilled in architectural design and building modeling.
-- 🖨️ **3D Printing**: Enthusiastic about 3D printing and exploring its applications in prototyping and custom design.
+  - **Fusion 360**: Creating detailed 3D models.
+  - **Autodesk Inventor**: Proficient in mechanical design.
+  - **Autodesk Revit**: Experienced in architectural design.
+- 🖨️ **3D Printing**: Enthusiastic about 3D printing and its applications.
 
-### 🔥 Projects
+## 🖥️ My PC Specs
 
-- \*\*[Unity 2D Top-down Hack'n'Slash Roguelike]
+Here’s a glimpse into my current setup:
 
-  - Developed a fast-paced 2D game focusing on melee and ranged combat mechanics using C# in Unity. The game features a dynamic energy system, combo attacks, upgrades, and a challenging boss fight.
+| Component        | Specification                       |
+| ---------------- | ----------------------------------- |
+| **CPU**          | Ryzen 9 7950X                       |
+| **GPU**          | Gigabyte RTX 4080 16GB Gaming OC    |
+| **RAM**          | 64GB G.Skill Flare X5 6000mHz DDR5  |
+| **Storage**      | 2 x Samsung 990 Pro 2TB             |
+| **Motherboard**  | ASUS TUF Gaming X670E-PLUS WIFI ATX |
+| **Cooling**      | EK Basic AIO 360mm                  |
+| **Power Supply** | Corsair HX1500i 80+ Platinum        |
+| **Case**         | Lian Li Lancool 206                 |
+
+## 🔥 Projects
+
+Check out some of my recent work:
+
+- **[Unity 2D Top-down Hack'n'Slash Roguelike](https://github.com/yourusername/yourproject)**
+
+  - Developed a fast-paced 2D game with combo attacks, an energy system, and challenging bosses.
   - _Technologies_: Unity, C#, GitHub
 
-- \*\*[MERN Stack To-Do App]
+- **[MERN Stack To-Do App](https://github.com/yourusername/yourproject)**
 
-  - A simple yet effective to-do list application built using the MERN stack (MongoDB, Express, React, Node.js). This project helped me dive deeper into full-stack development and RESTful APIs.
+  - A full-stack application for managing tasks using MongoDB, Express, React, and Node.js.
   - _Technologies_: MongoDB, Express, React, Node.js, TypeScript
 
-- \*\*[Robotics Control System for FIRST FTC]
-  - Developed autonomous and teleoperational Java code for robotics competitions, helping our team achieve better control and precision in various challenges.
+- **[Robotics Control System for FIRST FTC](https://github.com/yourusername/yourproject)**
+  - Created Java-based control systems for robotics competitions.
   - _Technologies_: Java, OpenCV, Git
 
-### 💬 Let's Connect!
+## 💬 Let's Connect!
 
-- 💼 [LinkedIn] https://www.linkedin.com/in/victor-valadez-963512282/
-- 📫 **Email**: mvictorvaladez@gmail.com
+- 🌐 [Personal Website](https://yourwebsite.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- 📫 **Email**: your.email@example.com
 
-### ⚡ Fun Fact
+## ⚡ Fun Fact
 
 I thrive on solving complex problems, whether it's coding a new feature, fixing a tricky bug, or strategizing for a robotics competition. When I'm not coding, you'll find me exploring new tech, gaming, or brainstorming with friends!
 
