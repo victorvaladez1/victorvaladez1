@@ -1,95 +1,48 @@
-# 👋 Hi there, I'm Victor!
+# 👋 Hey, I'm Victor
 
-I'm an undergraduate student at the **University of Houston** pursuing a **Bachelor's in Computer Science** with a **Minor in Mathematics**. I'm passionate about **software engineering** and **robotics**, and I love building innovative solutions that combine coding, problem-solving, and creativity.
+I'm a CS student at the **University of Houston** (Class of 2026) with a minor in Mathematics, building my way into **software engineering** and **robotics**.
 
-## 🚀 About Me
+I like shipping full-stack projects, solving tough problems, and turning creative ideas into working code.
 
-- 🎓 **Student** at the University of Houston, expected to graduate in **May 2026**.
-- 💻 **Software Engineering Enthusiast**: I enjoy working on projects related to web development, game development, and systems programming.
-- 🤖 **Robotics**: Experience in programming autonomous and teleoperated code for robotics competitions like **FIRST FTC**.
-- 🧠 **Currently Learning**: **Computer Vision** and **TensorFlow** with **OpenCV** for intelligent robotic systems.
+---
 
-## 🛠️ Skills
+## ⚒️ Core Skills
 
-### Languages and Technologies
+- **Languages**: Python, JavaScript, C++, Java
+- **Frontend**: React, HTML/CSS
+- **Backend**: Flask, Node.js, Express
+- **Database**: MongoDB, PostgreSQL, Supabase
+- **Tools**: Git, VS Code, Unity, OpenCV
 
-<div align="left">
-  <img alt="C++" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-  <img alt="Java" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img alt="Python" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="JavaScript" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="HTML5" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="GitHub" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  <img alt="Unity" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
-  <img alt="OpenCV" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
-  <img alt="VS Code" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-  <img alt="Android Studio" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
-  <img alt="PyCharm" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"/>
-</div>
-</div>
+---
 
-### Relevant Coursework
+## 🚀 Projects
 
-- **Algorithms and Data Structures**
-- **Operating Systems**
-- **Database Systems**
-- **Discrete Mathematics**
+### [🧾 AccountAbility](https://github.com/victorvaladez1/accountability-finance)
 
-## 🔧 Personal Interests
+A full-stack finance tracker that helps users manage accounts, view transactions, and visualize investment holdings.  
+_Built with MERN stack. Includes token-based auth, dynamic charts, and API integration._
 
-- 🖥️ **Building Gaming PCs**: Designing and assembling custom gaming rigs for optimal performance.
-- ⌨️ **Custom Keyboards**: Crafting mechanical keyboards to suit my typing style and aesthetic preferences.
-- 🎨 **Creative Skills**:
-  - **Photo Editing**: Learning **Photoshop**.
-  - **Video Editing**: Exploring **DaVinci Resolve**.
-  - **Photography & Videography**: Capturing moments with my **Canon EOS R50**.
-- 🛠️ **CAD Modeling & 3D Design**:
-  - **Fusion 360**: Creating detailed 3D models.
-  - **Autodesk Inventor**: Proficient in mechanical design.
-  - **Autodesk Revit**: Experienced in architectural design.
-- 🖨️ **3D Printing**: Enthusiastic about 3D printing and its applications.
+### [🛢️ WellAware](https://github.com/victorvaladez1/wellaware-platform)
 
-## 🖥️ My PC Specs
+Oilfield monitoring platform with simulated telemetry.  
+_React + Flask + Supabase frontend + [WellAwareSim](https://github.com/victorvaladez1/wellaware-sim) backend simulates real-time sensor data from oil wells._
 
-Here’s a glimpse into my current setup:
+---
 
-| Component        | Specification                       |
-| ---------------- | ----------------------------------- |
-| **CPU**          | Ryzen 9 7950X                       |
-| **GPU**          | Gigabyte RTX 4080 16GB Gaming OC    |
-| **RAM**          | 64GB G.Skill Flare X5 6000mHz DDR5  |
-| **Storage**      | 2 x Samsung 990 Pro 2TB             |
-| **Motherboard**  | ASUS TUF Gaming X670E-PLUS WIFI ATX |
-| **Cooling**      | EK Basic AIO 360mm                  |
-| **Power Supply** | Corsair HX1500i 80+ Platinum        |
-| **Case**         | Lian Li Lancool 206                 |
+## 🧠 Interests
 
-## 🔥 Projects
+- Full-stack app development
+- Robotics (FIRST FTC alum)
+- 3D modeling with Fusion 360
+- PC hardware & custom builds
+- Always learning new tech — currently diving deeper into **PostgreSQL** and **React ecosystem**
 
-Check out some of my recent work:
+---
 
-- \*\*[Unity 2D Top-down Hack'n'Slash Roguelike]
+## 📫 Connect with Me
 
-  - Developed a fast-paced 2D game with combo attacks, an energy system, and challenging bosses.
-  - _Technologies_: Unity, C#, GitHub
+- [LinkedIn](https://www.linkedin.com/in/victor-valadez-963512282/)
+- 📧 mvictorvaladez@gmail.com
 
-- \*\*[MERN Stack To-Do App]
-
-  - A full-stack application for managing tasks using MongoDB, Express, React, and Node.js.
-  - _Technologies_: MongoDB, Express, React, Node.js, TypeScript
-
-- \*\*[Robotics Control System for FIRST FTC]
-  - Created Java-based control systems for robotics competitions.
-  - _Technologies_: Java, OpenCV, Git
-
-## 💬 Let's Connect!
-
-- 💼 [LinkedIn] https://www.linkedin.com/in/victor-valadez-963512282/
-- 📫 **Email**: mvictorvaladez@gmail.com
-
-## ⚡ Fun Fact
-
-I thrive on solving complex problems, whether it's coding a new feature, fixing a tricky bug, or strategizing for a robotics competition. When I'm not coding, you'll find me exploring new tech, gaming, or brainstorming with friends!
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+---
