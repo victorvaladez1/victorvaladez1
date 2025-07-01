@@ -16,8 +16,11 @@ I like shipping full-stack projects, solving tough problems, and turning creativ
 
 ---
 
+## ⌛ Weekly Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+---
 
 ## 🚀 Projects
 
