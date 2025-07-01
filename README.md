@@ -16,6 +16,9 @@ I like shipping full-stack projects, solving tough problems, and turning creativ
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🚀 Projects
 
 ### [🧾 AccountAbility](https://github.com/victorvaladez1/accountability-finance)
