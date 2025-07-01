@@ -11,15 +11,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Dump secrets (for debug)
-        run: |
-          if [ -z "${{ secrets.WAKATIME_API_KEY }}" ]; then
-            echo "❌ SECRET IS EMPTY"
-            exit 1
-          else
-            echo "✅ SECRET EXISTS"
-          fi
-
       - name: Update README with WakaTime Stats
         uses: athul/waka-readme@master
         with:
