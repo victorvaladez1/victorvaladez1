@@ -36,7 +36,7 @@ _React + Flask + Supabase frontend + [WellAwareSim](https://github.com/victorval
 - Robotics (FIRST FTC alum)
 - 3D modeling with Fusion 360
 - PC hardware & custom builds
-- Always learning new tech — currently diving deeper into **PostgreSQL** and **React ecosystem**
+- Always learning new tech
 
 ---
 
