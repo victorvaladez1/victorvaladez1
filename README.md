@@ -20,7 +20,8 @@ I like shipping full-stack projects, solving tough problems, and turning creativ
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   10 mins         ████████████████░░░░░░░░░   63.54 %
+Markdown     5 mins          █████████░░░░░░░░░░░░░░░░   36.46 %
 ```
 
 <!--END_SECTION:waka-->
