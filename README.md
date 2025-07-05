@@ -20,10 +20,11 @@ I like shipping full-stack projects, solving tough problems, and turning creativ
 <!--START_SECTION:waka-->
 
 ```txt
-C++          27 mins         ███████████████▒░░░░░░░░░   61.17 %
-JavaScript   10 mins         ██████░░░░░░░░░░░░░░░░░░░   23.60 %
-Markdown     5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+JavaScript   34 mins         ██████████░░░░░░░░░░░░░░░   39.48 %
+C++          27 mins         ███████▓░░░░░░░░░░░░░░░░░   30.85 %
+Markdown     17 mins         █████░░░░░░░░░░░░░░░░░░░░   20.27 %
+Bash         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
