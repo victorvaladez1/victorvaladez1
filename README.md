@@ -1,54 +1,61 @@
-# 👋 Hey, I'm Victor
+# 👋 Hey there! I'm Victor Valadez
 
-I'm a CS student at the **University of Houston** (Class of 2026) with a minor in Mathematics, building my way into **software engineering** and **robotics**.
+I build full-stack apps, solve tough problems, and bring creative ideas to life with code.  
+🎓 Computer Science @ University of Houston | 💻 Aspiring SWE | 📍Houston, TX
 
-I like shipping full-stack projects, solving tough problems, and turning creative ideas into working code.
-
----
-
-## ⚒️ Core Skills
-
-- **Languages**: Python, JavaScript, C++, Java
-- **Frontend**: React, HTML/CSS
-- **Backend**: Flask, Node.js, Express
-- **Database**: MongoDB, PostgreSQL, Supabase
-- **Tools**: Git, VS Code, Unity, OpenCV
-
----
-
-## ⌛ Weekly Coding Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-000?style=for-the-badge)](https://victorvaladez.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/victorvaladez1)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvictorvaladez@gmail.com)
 
 ---
 
 ## 🚀 Projects
 
-### [🧾 AccountAbility](https://github.com/victorvaladez1/accountability-finance)
+### 🧾 AccountAbility
 
-A full-stack finance tracker that helps users manage accounts, view transactions, and visualize investment holdings.  
-_Built with MERN stack. Includes token-based auth, dynamic charts, and API integration._
+> MERN finance tracker for managing assets, debts, and budgeting goals.  
+> [GitHub](https://github.com/victorvaladez1/accountability)
 
-### [🛢️ WellAware](https://github.com/victorvaladez1/wellaware-platform)
+### 🏠 RentWise
 
-Oilfield monitoring platform with simulated telemetry.  
-_React + Flask + Supabase frontend + [WellAwareSim](https://github.com/victorvaladez1/wellaware-sim) backend simulates real-time sensor data from oil wells._
+> PERN-based platform to manage rental properties, tenants, and payments.  
+> [GitHub](https://github.com/victorvaladez1/rentwise-pern)
 
----
+### 🛢️ WellAware
 
-## 🧠 Interests
-
-- Full-stack app development
-- Robotics (FIRST FTC alum)
-- 3D modeling with Fusion 360
-- PC hardware & custom builds
-- Always learning new tech
+> Real-time oilfield monitoring app using React, Flask, PostgreSQL, and simulated telemetry.  
+> [GitHub](https://github.com/victorvaladez1/wellaware-platform)
 
 ---
 
-## 📫 Connect with Me
+## ⚒️ Skills
 
-- [LinkedIn](https://www.linkedin.com/in/victor-valadez-963512282/)
-- 📧 mvictorvaladez@gmail.com
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,sql&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb,firebase&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,unity,opengl&theme=dark" />
+</p>
 
 ---
+
+## ⌛ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorvaladez1&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvaladez1&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorvaladez1&theme=radical" />
+</p>
