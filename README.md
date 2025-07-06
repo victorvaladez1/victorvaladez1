@@ -14,7 +14,7 @@ I build full-stack apps, solve tough problems, and bring creative ideas to life 
 ### 🧾 AccountAbility
 
 > MERN finance tracker for managing assets, debts, and budgeting goals.  
-> [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/accountability) > [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://accountability-finance.vercel.app/login)
+> [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/accountability-finance) > [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://accountability-finance.vercel.app/login)
 
 ### 🏠 RentWise
 
