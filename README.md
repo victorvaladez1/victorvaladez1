@@ -49,13 +49,10 @@ I build full-stack apps, solve tough problems, and bring creative ideas to life 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victorvaladez1&show_icons=true&theme=radical" height="180"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvaladez1&layout=compact&theme=radical" height="180"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorvaladez1&theme=radical" />
 </p>
