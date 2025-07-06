@@ -24,6 +24,7 @@ I build full-stack apps, solve tough problems, and bring creative ideas to life 
 ### 🛢️ WellAware
 
 > Real-time oilfield monitoring app using React, Flask, PostgreSQL, and simulated telemetry.
+> [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/wellaware-platform)
 
 ---
 
