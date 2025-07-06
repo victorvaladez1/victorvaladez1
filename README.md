@@ -14,17 +14,21 @@ I build full-stack apps, solve tough problems, and bring creative ideas to life 
 ### 🧾 AccountAbility
 
 > MERN finance tracker for managing assets, debts, and budgeting goals.  
-> [GitHub](https://github.com/victorvaladez1/accountability)
+> [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/accountability) > [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://accountability-finance.vercel.app/login)
 
 ### 🏠 RentWise
 
 > PERN-based platform to manage rental properties, tenants, and payments.  
-> [GitHub](https://github.com/victorvaladez1/rentwise-pern)
+> [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/rentwise-pern)
+> 🚧 Live demo coming soon
 
 ### 🛢️ WellAware
 
-> Real-time oilfield monitoring app using React, Flask, PostgreSQL, and simulated telemetry.  
-> [GitHub](https://github.com/victorvaladez1/wellaware-platform)
+> Real-time oilfield monitoring app using React, Flask, PostgreSQL, and simulated telemetry.
+
+## [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/wellaware-platform)
+
+🚧 Live demo coming soon
 
 ---
 
