@@ -44,6 +44,15 @@ I build full-stack apps, solve tough problems, and bring creative ideas to life 
 ## ⌛ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   6 hrs 36 mins   ████████████████▒░░░░░░░░   65.92 %
+TypeScript   1 hr 57 mins    █████░░░░░░░░░░░░░░░░░░░░   19.52 %
+Markdown     40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+C++          27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
