@@ -16,12 +16,10 @@
   </a>
 </p>
 
----
-
-<h2 align="center">
+<h4 align="center">
   I build full-stack apps, solve tough problems, and bring creative ideas to life with code.<br/>
   🎓 Computer Science @ University of Houston | 💻 Aspiring SWE | 📍Houston, TX
-</h2>
+</h4>
 
 ---
 
