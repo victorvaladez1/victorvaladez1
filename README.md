@@ -1,13 +1,27 @@
-# 👋 Hey there! I'm Victor Valadez
+<h1 align="center">👋 Hey there! I'm Victor Valadez</h1>
 
-I build full-stack apps, solve tough problems, and bring creative ideas to life with code.  
-🎓 Computer Science @ University of Houston | 💻 Aspiring SWE | 📍Houston, TX
+<p align="center">
+  <img src="./assets/readme-gif.gif" alt="Demo" width="600"/>
+</p>
 
-![Demo](./assets/readme-gif.gif)
+<p align="center">
+  <a href="https://victorvaladez.com">
+    <img src="https://img.shields.io/badge/🌐-Portfolio-000?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/victorvaladez1">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:mvictorvaladez@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-000?style=for-the-badge)](https://victorvaladez.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/victorvaladez1)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvictorvaladez@gmail.com)
+---
+
+<h2 align="center">
+  I build full-stack apps, solve tough problems, and bring creative ideas to life with code.<br/>
+  🎓 Computer Science @ University of Houston | 💻 Aspiring SWE | 📍Houston, TX
+</h2>
 
 ---
 
