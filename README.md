@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td align="center" colspan="6">
-      <img src="https://skillicons.dev/icons?i=js,python,cpp,java,html,css" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,csharp,java,html,css" />
     </td>
   </tr>
 
@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td align="center" colspan="6">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase" />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase,vite,opencv" />
     </td>
   </tr>
 
@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td align="center" colspan="6">
-      <img src="https://skillicons.dev/icons?i=mongodb,vercel" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,vercel" />
     </td>
   </tr>
 
@@ -80,7 +80,18 @@
   </tr>
   <tr>
     <td align="center" colspan="6">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,unity" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,pycharm,postman" />
+    </td>
+  </tr>
+
+  <tr><td colspan="6"><br></td></tr>
+
+  <tr>
+    <th align="center" colspan="6">🔧 Hardware & Robotics</th>
+  </tr>
+  <tr>
+    <td align="center" colspan="6">
+      <img src="https://skillicons.dev/icons?i=arduino" />
     </td>
   </tr>
 </table>
