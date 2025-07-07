@@ -39,6 +39,14 @@
 
 > [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/wellaware-platform)
 
+ChatGPT said:
+Absolutely — here’s your exact same Skills section with slightly smaller icons using the &perline=8&size=35 parameters in the skillicons.dev URLs (default size is 48). This will reduce overall visual size and spacing.
+
+✅ Smaller Version:
+md
+Copy
+Edit
+
 ## 🛠️ Skills
 
 <table align="center">
@@ -47,7 +55,7 @@
   </tr>
   <tr>
     <td align="center" colspan="6">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,csharp,java,html,css" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,html,css&perline=8&size=35" />
     </td>
   </tr>
 
@@ -58,7 +66,7 @@
   </tr>
   <tr>
     <td align="center" colspan="6">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase,vite,opencv" />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase,vite,opencv&perline=8&size=35" />
     </td>
   </tr>
 
@@ -69,7 +77,7 @@
   </tr>
   <tr>
     <td align="center" colspan="6">
-      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,vercel" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,vercel&perline=8&size=35" />
     </td>
   </tr>
 
@@ -80,7 +88,7 @@
   </tr>
   <tr>
     <td align="center" colspan="6">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,pycharm,postman" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,pycharm,postman&perline=8&size=35" />
     </td>
   </tr>
 
@@ -91,7 +99,7 @@
   </tr>
   <tr>
     <td align="center" colspan="6">
-      <img src="https://skillicons.dev/icons?i=arduino" />
+      <img src="https://skillicons.dev/icons?i=arduino&perline=8&size=35" />
     </td>
   </tr>
 </table>
