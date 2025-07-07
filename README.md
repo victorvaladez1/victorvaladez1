@@ -39,31 +39,51 @@
 
 > [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/wellaware-platform)
 
-## ⚒️ Skills
+## 🛠️ Skills
 
-### 👨‍💻 Languages
+<table align="center">
+  <tr>
+    <th colspan="6" align="center">👨‍💻 Languages</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
+  </tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,java,html,css&theme=dark" />
-</p>
+  <tr>
+    <th colspan="5" align="center">⚙️ Frameworks & Libraries</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" /></td>
+  </tr>
 
-### ⚙️ Frameworks & Libraries
+  <tr>
+    <th colspan="3" align="center">☁️ Databases & Cloud</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sql" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" /></td>
+  </tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase&theme=dark" />
-</p>
-
-### ☁️ Databases & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase&theme=dark" />
-</p>
-
-### 🛠️ Tools & IDEs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,opengl&theme=dark" />
-</p>
+  <tr>
+    <th colspan="4" align="center">🧰 Tools & IDEs</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=unity" /></td>
+  </tr>
+</table>
 
 ## ⌛ Weekly Coding Stats
 
