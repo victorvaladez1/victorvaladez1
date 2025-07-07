@@ -136,3 +136,9 @@ Bash         8 mins          ▒░░░░░░░░░░░░░░░░
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorvaladez1&theme=radical" />
 </p>
+
+---
+
+<p align="center">
+  <i>“Always building. Always improving.”</i>
+</p>
