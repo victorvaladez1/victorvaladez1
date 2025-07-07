@@ -34,17 +34,19 @@
 ### 🧾 AccountAbility
 
 > MERN finance tracker for managing assets, debts, and budgeting goals.  
-> [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/accountability-finance)[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://accountability-finance.vercel.app/login)
+> ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark&size=20) ![Express](https://skillicons.dev/icons?i=express&theme=dark&size=20) ![React](https://skillicons.dev/icons?i=react&theme=dark&size=20) ![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark&size=20)  
+> [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/accountability-finance) [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://accountability-finance.vercel.app/login)
 
 ### 🏠 RentWise
 
 > PERN-based platform to manage rental properties, tenants, and payments.  
+> ![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark&size=20) ![Express](https://skillicons.dev/icons?i=express&theme=dark&size=20) ![React](https://skillicons.dev/icons?i=react&theme=dark&size=20) ![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark&size=20)  
 > [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/rentwise-pern)
 
 ### 🛢️ WellAware
 
-> Real-time oilfield monitoring app using React, Flask, PostgreSQL, and simulated telemetry.
-
+> Real-time oilfield monitoring app using simulated telemetry and live dashboards.  
+> ![Flask](https://skillicons.dev/icons?i=flask&theme=dark&size=20) ![React](https://skillicons.dev/icons?i=react&theme=dark&size=20) ![Python](https://skillicons.dev/icons?i=python&theme=dark&size=20) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql&theme=dark&size=20)  
 > [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/wellaware-platform)
 
 ## 🛠️ Skills
