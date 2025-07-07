@@ -41,27 +41,27 @@
 
 ## ⚒️ Skills
 
-### 🧠 Languages
+### 👨‍💻 Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,java,html,css,sql&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,java,html,css&theme=dark" />
 </p>
 
-### 🧩 Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase&theme=dark" />
 </p>
 
-### 🗄️ Databases & Cloud
+### ☁️ Databases & Cloud
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,vercel&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase&theme=dark" />
 </p>
 
 ### 🛠️ Tools & IDEs
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,opengl&theme=dark" />
 </p>
 
