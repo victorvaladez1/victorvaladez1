@@ -3,6 +3,8 @@
 I build full-stack apps, solve tough problems, and bring creative ideas to life with code.  
 🎓 Computer Science @ University of Houston | 💻 Aspiring SWE | 📍Houston, TX
 
+![Demo](./assets/readme-gif.gif)
+
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-000?style=for-the-badge)](https://victorvaladez.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/victorvaladez1)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvictorvaladez@gmail.com)
