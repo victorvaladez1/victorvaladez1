@@ -110,6 +110,11 @@ Bash         8 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+## 📈 Advanced WakaTime Metrics
+
+<!--START_SECTION:waka-box-->
+<!--END_SECTION:waka-box-->
+
 ## 📊 GitHub Stats
 
 <p align="center">
