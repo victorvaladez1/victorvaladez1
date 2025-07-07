@@ -54,8 +54,10 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=css" /></td>
   </tr>
 
+  <tr><td colspan="6"><br></td></tr> <!-- Spacer -->
+
   <tr>
-    <th colspan="5" align="center">⚙️ Frameworks & Libraries</th>
+    <th colspan="6" align="center">⚙️ Frameworks & Libraries</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" /></td>
@@ -63,25 +65,35 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=express" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" /></td>
+    <td align="center"></td>
   </tr>
 
+  <tr><td colspan="6"><br></td></tr> <!-- Spacer -->
+
   <tr>
-    <th colspan="3" align="center">☁️ Databases & Cloud</th>
+    <th colspan="6" align="center">☁️ Databases & Cloud</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sql" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" /></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 
+  <tr><td colspan="6"><br></td></tr> <!-- Spacer -->
+
   <tr>
-    <th colspan="4" align="center">🧰 Tools & IDEs</th>
+    <th colspan="6" align="center">🧰 Tools & IDEs</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=unity" /></td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 </table>
 
