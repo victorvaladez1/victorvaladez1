@@ -41,10 +41,28 @@
 
 ## ⚒️ Skills
 
+### 🧠 Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,sql&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb,firebase&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,unity,opengl&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,java,html,css,sql&theme=dark" />
+</p>
+
+### 🧩 Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase&theme=dark" />
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,vercel&theme=dark" />
+</p>
+
+### 🛠️ Tools & IDEs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,opengl&theme=dark" />
 </p>
 
 ## ⌛ Weekly Coding Stats
