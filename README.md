@@ -39,14 +39,6 @@
 
 > [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/wellaware-platform)
 
-ChatGPT said:
-Absolutely — here’s your exact same Skills section with slightly smaller icons using the &perline=8&size=35 parameters in the skillicons.dev URLs (default size is 48). This will reduce overall visual size and spacing.
-
-✅ Smaller Version:
-md
-Copy
-Edit
-
 ## 🛠️ Skills
 
 <table align="center">
