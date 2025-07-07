@@ -21,8 +21,6 @@
   🎓 Computer Science @ University of Houston | 💻 Aspiring SWE | 📍Houston, TX
 </h4>
 
----
-
 ## 🚀 Projects
 
 ### 🧾 AccountAbility
@@ -41,8 +39,6 @@
 
 > [![GitHub](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorvaladez1/wellaware-platform)
 
----
-
 ## ⚒️ Skills
 
 <p align="center">
@@ -50,8 +46,6 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb,firebase&theme=dark" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,unity,opengl&theme=dark" />
 </p>
-
----
 
 ## ⌛ Weekly Coding Stats
 
@@ -66,8 +60,6 @@ Bash         8 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
----
 
 ## 📊 GitHub Stats
 
