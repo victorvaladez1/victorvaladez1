@@ -41,49 +41,29 @@
 
 ## 🛠️ Skills
 
-<table align="center">
-  <tr>
-    <th align="center" colspan="6">👨‍💻 Languages</th>
-  </tr>
-  <tr>
-    <td align="center" colspan="6">
-      <img src="https://skillicons.dev/icons?i=js,python,cpp,java,html,css" />
-    </td>
-  </tr>
+### 👨‍💻 Languages
 
-  <tr><td colspan="6"><br></td></tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,java,html,css" />
+</p>
 
-  <tr>
-    <th align="center" colspan="6">⚙️ Frameworks & Libraries</th>
-  </tr>
-  <tr>
-    <td align="center" colspan="6">
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase" />
-    </td>
-  </tr>
+### ⚙️ Frameworks & Libraries
 
-  <tr><td colspan="6"><br></td></tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,firebase" />
+</p>
 
-  <tr>
-    <th align="center" colspan="6">☁️ Databases & Cloud</th>
-  </tr>
-  <tr>
-    <td align="center" colspan="6">
-      <img src="https://skillicons.dev/icons?i=mongodb,vercel" />
-    </td>
-  </tr>
+### ☁️ Databases & Cloud
 
-  <tr><td colspan="6"><br></td></tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,vercel" />
+</p>
 
-  <tr>
-    <th align="center" colspan="6">🧰 Tools & IDEs</th>
-  </tr>
-  <tr>
-    <td align="center" colspan="6">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,unity" />
-    </td>
-  </tr>
-</table>
+### 🧰 Tools & IDEs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity" />
+</p>
 
 ## ⌛ Weekly Coding Stats
 
