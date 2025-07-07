@@ -25,7 +25,9 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/vvaladez315">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=vvaladez315&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=vvaladez315&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=true" 
+         alt="Now Playing on Spotify" 
+         width="450" />
   </a>
 </p>
 
