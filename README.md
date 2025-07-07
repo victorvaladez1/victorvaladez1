@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=vvaladez315&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vvaladez315&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vvaladez315&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </p>
 
