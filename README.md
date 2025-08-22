@@ -111,17 +111,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2025 - To: 21 August 2025
+From: 15 August 2025 - To: 22 August 2025
 
-Total Time: 11 hrs 10 mins
+Total Time: 6 hrs 26 mins
 
-JavaScript   9 hrs 39 mins   █████████████████████▓░░░   86.53 %
-TypeScript   54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Bash         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-TSConfig     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   4 hrs 59 mins   ███████████████████▒░░░░░   77.56 %
+TypeScript   54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+Bash         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+TSConfig     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
