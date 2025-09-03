@@ -111,13 +111,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2025 - To: 02 September 2025
+From: 27 August 2025 - To: 03 September 2025
 
-Total Time: 23 mins
+Total Time: 20 mins
 
-JavaScript   18 mins         ███████████████████░░░░░░   76.30 %
-Bash         4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
-JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+JavaScript   18 mins         ██████████████████████▒░░   89.85 %
+JSON         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Bash         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
