@@ -34,11 +34,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2026 - To: 17 January 2026
+From: 11 January 2026 - To: 18 January 2026
 
-Total Time: 0 secs
+Total Time: 3 hrs 13 mins
 
-No activity tracked
+TypeScript   1 hr 33 mins    ████████████░░░░░░░░░░░░░   48.04 %
+JavaScript   1 hr 17 mins    ██████████░░░░░░░░░░░░░░░   39.80 %
+Bash         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+TSConfig     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
