@@ -34,14 +34,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2026 - To: 16 March 2026
+From: 10 March 2026 - To: 17 March 2026
 
-Total Time: 2 hrs 46 mins
+Total Time: 1 hr 31 mins
 
-JavaScript   2 hrs 21 mins         █████████████████████▒░░░   85.14 %
-SQL          16 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-Bash         6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JavaScript   1 hr 30 mins          ████████████████████████▓   98.42 %
+SQL          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
