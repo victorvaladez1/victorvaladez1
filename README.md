@@ -34,18 +34,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2026 - To: 18 April 2026
+From: 12 April 2026 - To: 19 April 2026
 
-Total Time: 8 hrs 54 mins
+Total Time: 7 hrs 39 mins
 
-TypeScript   6 hrs 54 mins         ███████████████████▒░░░░░   77.59 %
-SQL          1 hr 35 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
-TSConfig     8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-JavaScript   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Bash         5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   6 hrs 2 mins          ███████████████████▓░░░░░   78.86 %
+SQL          1 hr 35 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+TSConfig     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
