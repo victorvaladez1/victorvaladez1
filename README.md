@@ -34,15 +34,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2026 - To: 20 April 2026
+From: 14 April 2026 - To: 21 April 2026
 
-Total Time: 7 hrs 35 mins
+Total Time: 6 hrs 46 mins
 
-TypeScript   5 hrs 59 mins         ███████████████████▓░░░░░   78.90 %
-SQL          1 hr 34 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-TSConfig     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   6 hrs 46 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
