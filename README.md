@@ -34,15 +34,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2026 - To: 28 April 2026
+From: 22 April 2026 - To: 29 April 2026
 
-Total Time: 19 hrs 1 min
+Total Time: 19 hrs 45 mins
 
-TypeScript   18 hrs 24 mins        ████████████████████████▒   96.77 %
-SQL          17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Bash         8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-JavaScript   7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-JSON         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+TypeScript        17 hrs 11 mins        █████████████████████▓░░░   87.00 %
+Java              1 hr 24 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+SQL               17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+YAML              10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+XML               9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Bash              8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Java Properties   7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+JavaScript        7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+JSON              3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+HTTP Request      3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
