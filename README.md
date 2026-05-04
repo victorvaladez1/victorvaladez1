@@ -34,19 +34,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2026 - To: 03 May 2026
+From: 27 April 2026 - To: 04 May 2026
 
-Total Time: 14 hrs 41 mins
+Total Time: 11 hrs 15 mins
 
-TypeScript        12 hrs 29 mins        █████████████████████▒░░░   84.96 %
-Java              1 hr 24 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-YAML              10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-XML               9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Bash              8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Java Properties   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-JavaScript        6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-HTTP Request      3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Properties        2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TypeScript        9 hrs 18 mins         ████████████████████▓░░░░   82.65 %
+Java              1 hr 24 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+YAML              10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+XML               9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Java Properties   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+HTTP Request      3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Properties        2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Bash              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
