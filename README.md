@@ -34,18 +34,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2026 - To: 05 May 2026
+From: 29 April 2026 - To: 06 May 2026
 
-Total Time: 9 hrs 9 mins
+Total Time: 6 hrs 49 mins
 
-TypeScript        7 hrs 11 mins         ███████████████████▓░░░░░   78.65 %
-Java              1 hr 24 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
-YAML              10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-XML               9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Java Properties   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-HTTP Request      3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Properties        2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Bash              0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   6 hrs 49 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
