@@ -34,12 +34,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2026 - To: 05 August 2026
+From: 30 July 2026 - To: 06 August 2026
 
-Total Time: 2 hrs 5 mins
+Total Time: 4 hrs 15 mins
 
-JavaScript   1 hr 14 mins          ███████████████░░░░░░░░░░   59.55 %
-Java         50 mins               ██████████░░░░░░░░░░░░░░░   40.45 %
+JavaScript   3 hrs 12 mins         ███████████████████░░░░░░   75.52 %
+Java         1 hr 2 mins           ██████░░░░░░░░░░░░░░░░░░░   24.48 %
 YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 XML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
