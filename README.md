@@ -34,11 +34,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2026 - To: 25 October 2026
+From: 19 October 2026 - To: 26 October 2026
 
-Total Time: 1 hr 24 mins
+Total Time: 1 hr 49 mins
 
-Java   1 hr 24 mins          █████████████████████████   100.00 %
+Java         1 hr 24 mins          ███████████████████▒░░░░░   76.99 %
+YAML         21 mins               █████░░░░░░░░░░░░░░░░░░░░   19.63 %
+Git Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Bash         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
