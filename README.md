@@ -34,16 +34,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2026 - To: 26 October 2026
+From: 20 October 2026 - To: 27 October 2026
 
-Total Time: 1 hr 49 mins
+Total Time: 4 hrs 26 mins
 
-Java         1 hr 24 mins          ███████████████████▒░░░░░   76.99 %
-YAML         21 mins               █████░░░░░░░░░░░░░░░░░░░░   19.63 %
-Git Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Bash         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Java         2 hrs 47 mins         ███████████████▓░░░░░░░░░   63.06 %
+YAML         52 mins               █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+SQL          36 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
+XML          5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Git Config   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
